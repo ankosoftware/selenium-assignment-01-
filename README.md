@@ -13,4 +13,4 @@ Target System: http://signpush-dev.ankoapps.com/login
 Write script that will register new user in the system
 
 ## Test Case 2 : Create New Campaign. 
-Write new script that will create new campaing, add 2 slides (Text and Image), uploads new image to slide, save campaign 
+Write new script that will create new campaign, add 2 slides (Text and Image), uploads new image to slide, save campaign 
