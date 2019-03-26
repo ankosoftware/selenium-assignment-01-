@@ -1,11 +1,11 @@
-#Selenium Assignment - SignPush
+# Selenium Assignment
 
 Goal: Demonstrate Selenium WebDriver skills 
 
 Technology:
 
 - Selenium WebDeriver, FireFox Browser http://www.seleniumhq.org/docs/03_webdriver.jsp
-- Script Language: JavaScript (Prefered), or any other 
+- Script Language: Any 
 
 Target System: https://dev2.revetinc.com/
 
